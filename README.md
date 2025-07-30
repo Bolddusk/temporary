@@ -1,3 +1,6 @@
+https://docs.google.com/document/d/1KfOqtAepSNSyqnUwwmLhQWjKaTCj6aCIXo1I8i1x4rA/edit?tab=t.0
+
+
 Lab 1: Introduction to Docker - What is Docker?
 Lab Objectives
 By the end of this lab, students will be able to:
